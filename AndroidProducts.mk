@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lisa.mk
+    $(LOCAL_DIR)/awaken_lisa.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lisa-user \
-    lineage_lisa-userdebug \
-    lineage_lisa-eng
+    awaken_lisa-user \
+    awaken_lisa-userdebug \
+    awaken_lisa-eng
